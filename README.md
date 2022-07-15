@@ -1,4 +1,4 @@
-<h1 align="center">💫 Full stack developer<h1>
+<h1 align="center">💫 Full Stack Developer<h1>
 
 ### ⬅ Conheçam a Galadriel
 
