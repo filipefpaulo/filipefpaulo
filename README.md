@@ -1,3 +1,5 @@
+<!-- This is a fake activity on my GitHub to make  my day green 💚-->
+
 <h1 align="center">💫 Full Stack Developer<h1>
 
 ### ⬅ Conheçam a Galadriel
