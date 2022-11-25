@@ -1,6 +1,6 @@
 <!-- This is a fake activity on my GitHub to make  my day green 💚-->
 <!-- Juro que é o ultimo dia que vou roubar 💚-->
-<!-- =) 💚-->
+
 
 <h1 align="center">💫 Full Stack Developer<h1>
 
